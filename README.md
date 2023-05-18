@@ -32,10 +32,6 @@ npm run buildRC
 
 在/src/views/Layout.vue 中修改按钮点击事件中的地址为 web 服务的 js 文件地址
 
-```sh
-npm run buildRC
-```
-
 ## 开发环境本地调试
 
 启动开发环境，测试远程组件显示效果
