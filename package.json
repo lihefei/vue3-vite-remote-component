@@ -1,0 +1,25 @@
+{
+  "name": "vue3-vite-remote-component",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "buildRC": "vite build --mode lib",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "element-plus": "^2.3.4",
+    "marked": "^5.0.2",
+    "pinia": "^2.0.36",
+    "sass": "^1.62.1",
+    "sass-loader": "^13.2.2",
+    "vue": "^3.3.2",
+    "vue-router": "^4.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "sass": "^1.62.1",
+    "vite": "^4.3.5"
+  }
+}
